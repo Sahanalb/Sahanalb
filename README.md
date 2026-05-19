@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sahana L B 
 
-<!--
-**Sahanalb/Sahanalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Natural Language Processing @ University of Trier, Germany  
+Currently working on: AI/ML projects & Data Science  
+Currently learning: Pandas, Scikit-learn, ML Pipelines  
+Interests: Machine Learning,Artifical Intelligence, NLP, Data Science, Agentic AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages:** Python, SQL, HTML, CSS  
+**AI/ML:** Machine Learning,AI, Neural Networks, NLP, Deep Learning  
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
+**Tools:** Jupyter Notebook, IBM Watson, FAISS, BERTopic, Linux, Git  
+**Databases:** MySQL  
+
+---
+
+## Featured Projects
+
+### [Agentic RAG Topic Modeling](https://github.com/Sahanalb/artm-topic-modeling)
+> Built an agentic RAG pipeline combining FAISS dense retrieval.
+> BERTopic, and a Flan-T5 LLM agent that iteratively proposes. 
+> Critiques, and refines topic labels across 10,206 Amazon Musical Instrument reviews — outperforming BERTopic baseline on 3/4 metrics.  
+> **Tech:** Python, FAISS, BERTopic, Flan-T5, Sentence Transformers
+
+### Health Insurance Cost Predictor *(coming soon)*
+> ML model to predict insurance costs based on patient features.  
+> **Tech:** Python, Pandas, Scikit-learn, Streamlit
+
+
