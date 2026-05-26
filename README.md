@@ -2,7 +2,7 @@
 
 Master's student in Natural Language Processing @ University of Trier, Germany  
 Currently working on: AI/ML projects & Data Science  
-Currently learning: Pandas, Scikit-learn, ML Pipelines  
+Currently learning: DSA,Pandas, Scikit-learn, ML Pipelines  
 Interests: Machine Learning,Artifical Intelligence, NLP, Data Science, Agentic AI  
 
 ---
