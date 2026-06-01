@@ -25,6 +25,11 @@ Interests: Machine Learning,Artifical Intelligence, NLP, Data Science, Agentic A
 > Critiques, and refines topic labels across 10,206 Amazon Musical Instrument reviews — outperforming BERTopic baseline on 3/4 metrics.  
 > **Tech:** Python, FAISS, BERTopic, Flan-T5, Sentence Transformers
 
+### Hidden Message Grid Decoder
+> Web scraper that decodes hidden visual 
+> messages from coordinate-based HTML tables
+> **Tech:** Python | BeautifulSoup | requests
+
 ### Health Insurance Cost Predictor *(coming soon)*
 > ML model to predict insurance costs based on patient features.  
 > **Tech:** Python, Pandas, Scikit-learn, Streamlit
