@@ -1,4 +1,4 @@
-# Hi, I'm Sahana L B 
+# Hi, I'm  Sahana L B 
 
 Master's student in Natural Language Processing @ University of Trier, Germany  
 Currently working on: AI/ML projects & Data Science  
@@ -10,7 +10,7 @@ Interests: Machine Learning,Artifical Intelligence, NLP, Data Science, Agentic A
 ## Skills
 
 **Languages:** Python, SQL, HTML, CSS  
-**AI/ML:** Machine Learning,AI, Neural Networks, NLP, Deep Learning  
+**AI/ML:** Machine Learning, AI, Neural Networks, NLP, Deep Learning  
 **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn  
 **Tools:** Jupyter Notebook, IBM Watson, FAISS, BERTopic, Linux, Git  
 **Databases:** MySQL  
